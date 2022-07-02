@@ -1,0 +1,8 @@
+.title-contents {
+  background-color: yellow;
+  font-size: 32px;
+}
+
+.mouse-over:hover {
+  background-color: yellow;
+}
